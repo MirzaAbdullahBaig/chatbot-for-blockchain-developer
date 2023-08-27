@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+h1, h3 {
+    color: azure;
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+}
